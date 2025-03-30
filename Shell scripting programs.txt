@@ -1,0 +1,35 @@
+Shell scripting programs
+1. Variable declaration  
+2. Display user input  
+3. Concatenating strings  
+4. Arithmetic operations  
+5. Generate random numbers between two given numbers  
+6. Mathematical operations without sorting  
+7. Check if a number is even or odd  
+8. Finding the square root of a number  
+9. Email ID verification  
+10. URL path identification  
+11. Write data to a file  
+12. Check if a file exists or not  
+13. Print text using echo with a new line  
+14. Accept two command-line inputs  
+15. Password input  
+16. String comparison  
+17. Reverse a sentence  
+18. Replace a word in a sentence  
+19. Print prime numbers  
+20. Print multiplication tables  
+21. Calculate the factorial of a number  
+22. Find the smallest and largest numbers in an array  
+23. Slice an array  
+24. Check if a string is a palindrome  
+25. Find prime numbers using a function and without using a function  
+26. Assign grades based on a number  
+27. Remote hosting setup  
+28. Check network connectivity  
+29. Automate network configuration  
+30. Retrieve operating system information
+31.Loop Through Array Elements
+32.Inserting an Element Into an Array
+33.Copy a File to a New Location
+34.Print Contents of Multiple File
